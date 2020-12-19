@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-#include<math.h>   
+#include<math.h>     
 #define mnum 10e9
 using namespace std;
 
